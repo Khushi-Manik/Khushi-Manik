@@ -1,9 +1,8 @@
 # Hi there, I'm Khushi! 👋
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Reinforcement Learning** and **Autonomous Interceptors**.
-- ⚡ I specialize in **Tech** (Data, AI, and Python-based engineering)
-- 📫 How to reach me: khushimanik64@gmail.com
+### About Me
+- I specialize in **Tech** (Data, AI, and Python-based engineering)
+- How to reach me: khushimanik64@gmail.com
 
 ### 🔗 Connect with Me
 <p align="left">
