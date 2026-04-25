@@ -4,7 +4,7 @@
 - I specialize in **Tech** (Data, AI, and Python-based engineering)
 - How to reach me: khushimanik64@gmail.com
 
-### 🔗 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/khushi-manik-84a39925b" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,9 +16,9 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-#### 💻 Languages & Web
+#### Languages & Web
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -28,18 +28,11 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### 🧠 AI, ML & Data Science
+#### AI, ML & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Deep_Learning-9C27B0?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00ACC1?style=for-the-badge&logo=analytics&logoColor=white" alt="Data Analysis"/>
   <img src="https://img.shields.io/badge/Visualization-00838F?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
-</p>
-
----
-
-### 📈 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Manik&show_icons=true&theme=dark&hide_border=true" width="400" />
 </p>
