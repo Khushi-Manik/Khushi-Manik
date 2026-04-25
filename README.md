@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/khushi-manik-84a39925b" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://v0-portfolio-khushi-manik.vercel.app/" target="blank">
+  <a href="https://khushi-manik.github.io/" target="blank">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
